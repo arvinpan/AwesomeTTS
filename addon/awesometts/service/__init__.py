@@ -32,7 +32,7 @@ from .ekho import Ekho
 from .espeak import ESpeak
 from .festival import Festival
 from .fluencynl import FluencyNl
-# from .google import Google
+from .google import Google
 from .howjsay import Howjsay
 from .imtranslator import ImTranslator
 from .ispeech import ISpeech
@@ -63,7 +63,7 @@ __all__ = [
     'ESpeak',
     'Festival',
     'FluencyNl',
-    # 'Google',
+    'Google',
     'Howjsay',
     'ImTranslator',
     'ISpeech',
