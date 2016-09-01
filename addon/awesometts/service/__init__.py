@@ -37,6 +37,7 @@ from .google import Google
 from .howjsay import Howjsay
 from .imtranslator import ImTranslator
 from .ispeech import ISpeech
+from .ivona import IVONA
 from .linguatec import Linguatec
 from .naver import Naver
 from .neospeech import NeoSpeech
@@ -70,6 +71,7 @@ __all__ = [
     'Howjsay',
     'ImTranslator',
     'ISpeech',
+    'IVONA',
     'Linguatec',
     'Naver',
     'NeoSpeech',
